@@ -1,0 +1,29 @@
+viralwala/
+
+public/
+ ├── favicon.ico
+ ├── manifest.json
+ ├── icons/
+ │    ├── icon-192.png
+ │    └── icon-512.png
+
+src/
+
+components/
+ ├── Sidebar.jsx
+ ├── Navbar.jsx
+ ├── ClientCard.jsx
+ ├── AccessModal.jsx
+ └── EditClientModal.jsx
+
+pages/
+ ├── Login.jsx
+ └── Dashboard.jsx
+
+App.jsx
+main.jsx
+index.css
+
+tailwind.config.js
+vite.config.js
+package.json
