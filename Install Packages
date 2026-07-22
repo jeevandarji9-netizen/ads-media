@@ -1,0 +1,5 @@
+npm install react-router-dom
+npm install lucide-react
+npm install framer-motion
+npm install react-hot-toast
+npm install vite-plugin-pwa
